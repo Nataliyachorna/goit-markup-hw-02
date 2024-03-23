@@ -31,6 +31,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .logo {
@@ -124,7 +125,12 @@ ol {
   color: #434455;
 }
 
+.team {
+  background: #f4f4fd;
+}
+
 .team-title {
+  background: #fff;
 }
 
 .team-subtitle {
