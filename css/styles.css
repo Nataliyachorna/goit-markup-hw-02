@@ -99,10 +99,15 @@ ol {
   letter-spacing: 0.04em;
   color: #fff;
   cursor: pointer;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  border-radius: 4px;
 }
 
 .hero-button:hover,
 .hero-button:focus {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #404bbf;
 }
 
 .features-subtitle {
